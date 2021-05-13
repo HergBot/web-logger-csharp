@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HergBotWebLogger_Tests", "HergBotWebLogger_Tests\HergBotWebLogger_Tests.csproj", "{B4DF9CC9-DC9D-42C4-8833-CE96A06988D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HergBotWebLogger", "HergBotWebLogger\HergBotWebLogger.csproj", "{3D689B35-B9AF-49E7-BE35-EEEFCF2437BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4DF9CC9-DC9D-42C4-8833-CE96A06988D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DF9CC9-DC9D-42C4-8833-CE96A06988D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DF9CC9-DC9D-42C4-8833-CE96A06988D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DF9CC9-DC9D-42C4-8833-CE96A06988D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D689B35-B9AF-49E7-BE35-EEEFCF2437BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D689B35-B9AF-49E7-BE35-EEEFCF2437BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D689B35-B9AF-49E7-BE35-EEEFCF2437BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D689B35-B9AF-49E7-BE35-EEEFCF2437BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FB08761-7495-4381-BC8F-59A1A5857A4B}
+	EndGlobalSection
+EndGlobal
